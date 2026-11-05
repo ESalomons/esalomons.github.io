@@ -1,6 +1,13 @@
-# Liedjes
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-  
+# Liedjes
+* [Brigitte Kaandorp - Annelies van der Pies  ](#brigitte-kaandorp-annelies-van-der-pies)
+* [The Beatles - Let It Be  ](#the-beatles-let-it-be)
+* [K3 - Alle Oma's Aan De Top  ](#k3-alle-omas-aan-de-top)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="brigitte-kaandorp-annelies-van-der-pies"></a>
 ## Brigitte Kaandorp - Annelies van der Pies  
 Ik ben een meisje van negen jaar  
 Ik draag altijd twee staarten in me haar  
@@ -46,6 +53,7 @@ Ze noemen me Annelies van der Pies
 
 
 
+<!-- TOC --><a name="the-beatles-let-it-be"></a>
 ## The Beatles - Let It Be  
 When I find myself in times of trouble  
 Mother Mary comes to me  
@@ -109,6 +117,7 @@ Ik moet al piesen als ik nies
 Vertel mij nooit een goeie grap  
 Want mijn sluitspier is te slap  
 
+<!-- TOC --><a name="k3-alle-omas-aan-de-top"></a>
 ## K3 - Alle Oma's Aan De Top  
 Oma, als het weer feest is.  
 Ben jij er altijd bij.  
