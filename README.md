@@ -1,192 +1,147 @@
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+# Markdown to GitHub style web
 
-# Liedjes
-* [Brigitte Kaandorp - Annelies van der Pies  ](#brigitte-kaandorp-annelies-van-der-pies)
-* [The Beatles - Let It Be  ](#the-beatles-let-it-be)
-* [K3 - Alle Oma's Aan De Top  ](#k3-alle-omas-aan-de-top)
+> Because GitHub's `README` styling is actually really nice
 
-<!-- TOC end -->
+## Background
 
-<!-- TOC --><a name="brigitte-kaandorp-annelies-van-der-pies"></a>
-## Brigitte Kaandorp - Annelies van der Pies  
-Ik ben een meisje van negen jaar  
-Ik draag altijd twee staarten in me haar  
-Ik ben een heel erg vrolijk kind  
-Ik lach al om een goeie wind  
-  
-Valt mijn zusje zich soms een breuk  
-Lig ik onmiddelijk in een deuk  
-Helaas heb ik een groot gebrek  
-Dat is dat ik nogal eens lek  
-  
-Ze noemen me Annelies van der Pies  
-Ik moet al piesen als ik nies  
-Vertel mij nooit een goeie grap  
-Want mijn sluitspier is te slap  
-  
-Ook zijn we laatst een keer uit eten gegaan  
-Lakschoentjes en een nieuwe jurk had ik aan  
-De ober komt met jus en spruit... jes  
-Vlak voor ons gaat ie onderuit... dus  
-  
-Wij zaten allen onder 't appelmoes  
-De karbonade zaten in mijn moeders blouse  
-En bovendien door mijn gebrek  
-Zat in mijn jurkje nog een vlek  
-  
-Ze noemen me Annelies van der Pies  
-Ik moet al piesen als ik nies  
-Vertel mij nooit een goeie grap  
-Want mijn sluitspier is te slap  
-  
-Ook zijn we laatst op schoolreisje geweest  
-Dat was natuurlijk een enorm feest  
-De speeltuin kindervreugd zat vol  
-Der was een wip en een schommol  
-  
-Elly bleef haken op de glijbaan aan een schroef  
-Peter kwam onder zo'n paardenhoef  
-Jan sloeg Erik een groot blauw oog  
-Mijn broekje bleef dus niet lang droog  
-  
-Ze noemen me Annelies van der Pies  
+[![](https://img.shields.io/badge/author-@KrauseFx-blue.svg?style=flat)](https://twitter.com/KrauseFx)
 
+If you have a little side project, often you might want a simple landing page. The GitHub `README` rendering is really beautifully done: clean, simple and modern. The official [GitHub markdown to HTML API](https://developer.github.com/v3/markdown/) generates the HTML code, but not the stylesheets necessary to make it look nice.
 
+Using your GitHub `README` as the main landing point works great for open source projects, where your visitors are developers and are familiar with GitHub, as well as you have all the text right where the code, the Issues and PRs are. But for some projects this isn't ideal. I built this project within a few hours for myself to get [WalkWithFriends](https://walkwithfriends.net/) off the ground fast, without investing in building an actual website, or using a bloated website builder.
 
-<!-- TOC --><a name="the-beatles-let-it-be"></a>
-## The Beatles - Let It Be  
-When I find myself in times of trouble  
-Mother Mary comes to me  
-Speaking words of wisdom  
-Let it be  
-  
-And in my hour of darkness  
-She is standing right in front of me  
-Speaking words of wisdom  
-Let it be  
-  
-Let it be, let it be  
-Let it be, let it be  
-Whisper words of wisdom  
-Let it be  
-  
-And when te broken hearted people  
-Living in the world agree  
-There will be an answer  
-Let it be  
-  
-For though they may be parted, there is  
-Still a chance that they will see  
-There will be an answer, let it be.  
-  
-Let it be, let it be  
-Let it be, let it be  
-there will be an answer  
-Let it be  
-  
-Let it be, let it be  
-Let it be, let it be  
-Whisper words of wisdom  
-Let it be  
-  
-Let it be, let it be  
-Let it be, let it be  
-Whisper words of wisdom  
-Let it be  
-  
-And when the night is cloudy  
-There is still a light that shines on me  
-Shine until tomorrow  
-Let it be  
-  
-I wake up to the sound of music  
-Mother Mary comes to me  
-Speaking words of wisdom  
-Let it be  
-  
-Let it be, let it be  
-Let it be, let it be  
-there will be an answer  
-Let it be  
-  
-Let it be, let it be  
-Let it be, let it be  
-Whisper words of wisdom  
-Let it be
-Ik moet al piesen als ik nies  
-Vertel mij nooit een goeie grap  
-Want mijn sluitspier is te slap  
+Some issues you run into when using GitHub as your main landing page
 
-<!-- TOC --><a name="k3-alle-omas-aan-de-top"></a>
-## K3 - Alle Oma's Aan De Top  
-Oma, als het weer feest is.  
-Ben jij er altijd bij.  
-Ik wil niet meer naar huis toe.  
-Want ik wil bij je blijven  
-  
-Oma, als je geweest bent.  
-Voel ik me toch zo blij  
-Als plezier voortaan een schoolvak wordt.  
-Krijg jij een tien van mij.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Oma, als ik een miljoen win.  
-Geef ik de helft aan jou.  
-Dan gaan wij naar Aruba.  
-Samen de samba dansen.  
-  
-Als ik een glazen schoen vind.  
-Dan is die vast van jou.  
-Want jij blijft mijn liefste droomprinses.  
-Al word je nog zo oud.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Zeg me dat je niet gaat.  
-Dat je mij nooit verlaat.  
-Samen worden we duizend jaar.  
-Want ik wil je voor altijd bij me.  
-Ik wil je voor altijd bij me.  
-  
-Oma, mijn liefst oma - Oma, mijn lieve oma.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Oma's aan de top.  
-Het feesten kan niet op.  
-Met oma's aan de top.  
-Treuren wordt een flop.  
-Want tranen zeggen stop.  
-Met oma's aan de top.  
-  
-Oma's aan de top.
+- Maybe your project isn't actually an open source project, so you can't just host a `README` on GitHub
+- If you want to link to just the `README`, you could append `#readme` to your browser URL (making the URL less pretty), or the visitor has to know they have to scroll down
+- The mobile page of GitHub is still pretty bad, and it only renders the first few lines, as soon as you have a logo and badges on your page, it doesn't render at all, unless the visitor hits `View all of `README`.md`
+    - Non-tech visitors don't know what's a `README.md`
+    - The button is small, and people don't know what is
+    - GitHub renders the GitHub Pulse below, something that doens't make sense for non-tech visitors
+    - The URL changes from something nice like `github.com/krausefx/fastlane` to `github.com/krausefx/fastlane/blob/master/README.md`, meaning you can either link directly to this page to have a nice content, or you link to the root page and have the downside of the extra buttons
+    - [Nat announced](https://twitter.com/natfriedman/status/1126544306712350721), that they working on improving the mobile experience, which is great news for everybody :)
+- You can't use your own domain
+- If you use your own domain, you have to use GitHub Pages (which is excellent btw), but then you have to have HTML files ready, which is exactly what this project solves.
+
+## Solution
+
+A simple script that converts a markdown (`.md`) file to a single HTML file, that includes all the HTML and CSS code inline, so you can host it anywhere.
+
+There is no need to use this script if you already convert your markdown file to HTML, you can directly use the [stylesheet](https://github.com/KrauseFx/markdown-to-html-github-style/blob/master/style.css) of this repo.
+
+## How it works
+
+This project doesn't actually use the GitHub stylesheet, it's far too complex, and has legal implications.
+
+Instead this project does 2 things:
+
+- Convert the Markdown to HTML using [showdown](https://github.com/showdownjs/showdown), the most popular JS markdown parser. This could be replaced by the [official GitHub markdown to HTML API](https://github.com/KrauseFx/markdown-to-html-github-style/issues/2)
+- Inject the GitHub-like CSS code at the bottom of the page
+
+Resulting you get an HTML file that contains everything needed, so you can host the page on GitHub pages, AWS S3, Google Cloud Storage or anywhere else.
+
+- Check out [the original markdown](https://github.com/KrauseFx/markdown-to-html-github-style/blob/master/README.md?raw=1) file of this `README`
+- Check out the [raw generated HTML code](https://github.com/KrauseFx/markdown-to-html-github-style/blob/master/index.html) generated based on this markdown file on
+- Check out the [GitHub rendered README](https://github.com/KrauseFx/markdown-to-html-github-style)
+- Check out the [README rendered by this project](https://krausefx.github.io/markdown-to-html-github-style/)
+
+## Dependencies
+
+```
+npm install
+```
+
+## Usage
+
+```
+node convert.js MyPageTitle
+```
+
+This will read the `README.md` from your current working directory and output the resulting HTML as `README.html` in the same directory.
+
+## Open tasks
+
+Check out the [open issues](https://github.com/KrauseFx/markdown-to-html-github-style/issues), in particular code blocks currently don't support syntax highlighting, however that's something that's rather easy to add. For a minimalistic stylesheet we could take the styles from [krausefx.com css](https://github.com/KrauseFx/krausefx.com/blob/021186e228e183904af68ad8fc500c35107f00ae/assets/main.scss#L345-L438).
+
+## Playground to test
+
+```
+{
+  testcode: 1
+}
+```
+
+- Bullet list item 1
+- Bullet list item 2
+    - Bullet list item 2.1
+    - Bullet list item 2.2
+
+---
+
+1. Numbered list item 1
+1. Numbered list item 2
+
+Inline `code` comments are `100`
+
+> Quoted texts are more gray and look differently
+
+**Bold text** is **bold** and [inline links](https://krausefx.com) work as well.
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+
+<table>
+  <tr>
+    <td>
+      <img src="demo/screenshot1_framed.jpg">
+    </td>
+    <td>
+      <img src="demo/screenshot2_framed.jpg">
+    </td>
+    <td>
+      <img src="demo/screenshot3_framed.jpg">
+    </td>
+  </tr>
+</table>
+
+Normal text content again, lorem ipsum
+
+<table>
+  <tr>
+    <th>
+      Text 1
+    </th>
+    <th>
+      Text 2
+    </th>
+    <th>
+      Text 3
+    </th>
+  </tr>
+  <tr>
+    <td>
+      Text 1
+    </td>
+    <td>
+      Text 2
+    </td>
+    <td>
+      Text 3
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Text 1
+    </td>
+    <td>
+      Text 2
+    </td>
+    <td>
+      Text 3
+    </td>
+  </tr>
+</table>
+
